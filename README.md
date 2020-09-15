@@ -1,8 +1,5 @@
 # Firebase
 Desinging a Todo List using Firebase.
-
-Link to visit my Web Page :
- https://pallavidhar.github.io/Firebase/
  
  # Screenshots
  
